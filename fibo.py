@@ -15,3 +15,7 @@ def fib2(n):
         a,b = b, a+b
         return result
 
+def retcubevolume(x):
+    return x * x * x
+
+
